@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: firstspringapp
-          image: zmehibr/firstspringapp:1.2
+          image: zmehibr/firstspringapp:1.3
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
